@@ -42,7 +42,6 @@ six==1.10.0
 social-auth-core==0.2.1
 spotipy==2.4.4
 SQLAlchemy==1.1.4
-TableauSDK==10100.16.1103.2343
 traitlets==4.3.1
 tree==0.1.0
 wcwidth==0.1.7
